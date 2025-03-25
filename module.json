@@ -23,6 +23,6 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/xPeppesrx/MyCustomSheet/refs/heads/main/module.json?token=GHSAT0AAAAAADBDGQNHICTIRAK5VFIAHLPYZ7CRJ4Q",
-  "download": "https://github.com/xPeppesrx/MyCustomSheet/blob/main/my-custom-sheet.zip"
+  "manifest": "https://raw.githubusercontent.com/xPeppesrx/MyCustomSheet/main/module.json",
+  "download": "https://github.com/xPeppesrx/MyCustomSheet/archive/refs/heads/main.zip"
 }
